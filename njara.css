@@ -1,0 +1,18 @@
+h2{
+            color:brown;
+        }
+        h1{
+            color:red;
+        }
+        li{
+            color:purple;
+        }
+        button{
+            color:gray;
+            margin-rigth:40px;
+            margin-top:20px;
+        }
+        body{
+            background-image:url(tolo.jpg);
+        }
+        

@@ -1,0 +1,18 @@
+button{
+            Margin:40px;
+            Background-color:pink;
+            Border-radius:20px;
+        }
+        h1{
+            Color:red;
+            Margin-left:50px;
+        }
+        Body{
+            Background-image:url(cath.jpg);
+        }
+        a{
+            color:white;
+        }
+        Table{
+            Background-color:white;
+        }
